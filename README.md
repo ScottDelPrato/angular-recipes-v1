@@ -6,8 +6,20 @@ This Project demonstrates the basics of angular application architecture.  It is
 - String Interpolation
 - Components
 - Nested Components
-
-Things to come in v2:
 - Property Binding
 - Data Binding
 - Event Binding
+- Directives
+- Services
+- Dependency Injection
+
+Things to come:
+- Routing
+- Observables
+- Forms Handling
+- Pipes
+- HTTP Requests
+- Authentication
+- Route Protection
+- Dynamic Components
+- Unit Testing (if I'm feeling frisky)
